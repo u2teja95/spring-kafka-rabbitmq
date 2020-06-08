@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class Output {
-    private String key;
-    private String response;
+    private String cid;
+    private String message;
 
 }
